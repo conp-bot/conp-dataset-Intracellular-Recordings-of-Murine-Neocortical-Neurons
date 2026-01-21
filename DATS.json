@@ -25,6 +25,7 @@
             },
             "access": {
                 "landingPage": "https://osf.io/vmg62/",
+                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=vmg62",
                 "authorizations": [
                     {
                         "value": "public"
